@@ -11,6 +11,8 @@
 
     "files": [
         "fibonacci.ts",
-        "simpleString.ts"
+        "simpleString.ts",
+        "stars.ts",
+        "max.ts"
     ]
 }
